@@ -5,5 +5,7 @@ public class FirstClass {
         System.out.println("programowania");
         System.out.println("i");
         System.out.println("commitowania");
+        System.out.println("kolejna");
+        System.out.println("zmiana");
     }
 }
