@@ -7,5 +7,7 @@ public class FirstClass {
         System.out.println("commitowania");
         System.out.println("kolejna");
         System.out.println("zmiana");
+        System.out.println("czwarta");
+        System.out.println("zmiana");
     }
 }
